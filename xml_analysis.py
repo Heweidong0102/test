@@ -4,7 +4,7 @@
 # url https://blog.csdn.net/shiboyuan0410/article/details/87929497?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.channel_param&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.channel_param
 # 介绍一些标签信息
 
-
+123123
 from bs4 import BeautifulSoup
 from RawTable import RawTable
 from util import *
